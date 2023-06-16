@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'test-bold-reports'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA92CD679B6D4A899D13762B79988293 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE9CE3D1E23F4476A1785C1C975BE5F2 }}
